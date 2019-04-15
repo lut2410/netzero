@@ -5,4 +5,4 @@
 ### 14520748 Ngô Vũ Quyền<br />
 ### 14520805 Lê Phước Tân
 ------------
-### Documents: File Demo-sample-Asset-Management-Dashboard.docx
+### Documents: [Here](Demo-sample-Asset-Management-Dashboard.docx)
